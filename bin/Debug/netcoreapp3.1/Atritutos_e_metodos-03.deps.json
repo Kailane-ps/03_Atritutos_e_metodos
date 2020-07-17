@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Atritutos_e_metodos-03/1.0.0": {
+        "runtime": {
+          "Atritutos_e_metodos-03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atritutos_e_metodos-03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

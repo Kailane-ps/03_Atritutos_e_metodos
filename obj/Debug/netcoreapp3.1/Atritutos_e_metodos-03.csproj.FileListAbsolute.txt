@@ -1,0 +1,13 @@
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\obj\Debug\netcoreapp3.1\Atritutos_e_metodos-03.csprojAssemblyReference.cache
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\obj\Debug\netcoreapp3.1\Atritutos_e_metodos-03.AssemblyInfoInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\obj\Debug\netcoreapp3.1\Atritutos_e_metodos-03.AssemblyInfo.cs
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\obj\Debug\netcoreapp3.1\Atritutos_e_metodos-03.csproj.CoreCompileInputs.cache
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\bin\Debug\netcoreapp3.1\Atritutos_e_metodos-03.exe
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\bin\Debug\netcoreapp3.1\Atritutos_e_metodos-03.deps.json
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\bin\Debug\netcoreapp3.1\Atritutos_e_metodos-03.runtimeconfig.json
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\bin\Debug\netcoreapp3.1\Atritutos_e_metodos-03.runtimeconfig.dev.json
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\bin\Debug\netcoreapp3.1\Atritutos_e_metodos-03.dll
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\bin\Debug\netcoreapp3.1\Atritutos_e_metodos-03.pdb
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\obj\Debug\netcoreapp3.1\Atritutos_e_metodos-03.dll
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\obj\Debug\netcoreapp3.1\Atritutos_e_metodos-03.pdb
+C:\Users\Kailane\Desktop\SENAI K\Atritutos_e_metodos-03\obj\Debug\netcoreapp3.1\Atritutos_e_metodos-03.genruntimeconfig.cache
